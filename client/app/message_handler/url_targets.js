@@ -115,6 +115,11 @@ module.exports = {
     'r=combinedSegment/list'
   ].join('&'),
 
+  'combined_segments/create': [
+    'bootstrap.php?session_id={session_id}',
+    'r=combinedSegment/edit'
+  ].join('&'),
+
   'segments/combine': [
     'bootstrap.php?session_id={session_id}',
     'r=combinedSegment/edit',

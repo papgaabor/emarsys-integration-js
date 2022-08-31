@@ -257,6 +257,7 @@ __Targets available__
 | segments/combine                 | Combine a segment                                              | segment_id                                     |
 | segments/edit                    | Edit a segment                                                 | segment_id                                     |
 | combined_segments/list           | List combined segments                                         ||
+| combined_segments/create         | Create a combined segment                                      ||
 | trendsreporting/trends           | Trend reporting page                                           ||
 | trendsreporting/trends/campaign  | Trend reporting page for specific campaign                     | campaign_id                                    |
 | me_push/edit                     | Mobile Engage push campaign editor                             | id                                             |
